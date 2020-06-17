@@ -1,5 +1,5 @@
 # Aprendendo Javascript
-> Projeto do livro [Cangaceiro Javascript da Casa do Código](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript).
+> Projeto do livro [Cangaceiro Javascript](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript) da Casa do Código.
 
 Esse livro vem com um projeto de negociações de ações na Bolsa de Valores levando assim desenvolvedores aprenderem Javascript, Orientação a Objetos e outros conceitos mais
 
