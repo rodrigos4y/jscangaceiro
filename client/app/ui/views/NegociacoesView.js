@@ -25,10 +25,10 @@ class NegociacoesView {
                     ${model.paraArray().map(negociacao => {
                         return `
                             <tr>
-                                <td>${DateConverter.paraTexto(negociacao.data)}</td>
-                                <td>${negociacao.quantidade}</td>
-                                <td>${negociacao.valor}</td>
-                                <td>${negociacao.volume}</td>
+                                <td>${DateConverter.paraTexto(negociacao._data)}</td>
+                                <td>${negociacao._quantidade}</td>
+                                <td>${negociacao._valor}</td>
+                                <td>${negociacao._volume}</td>
                             </tr>
                         `
                     }).join('')}
