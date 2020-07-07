@@ -28,7 +28,7 @@ class NegociacoesView {
                                 <td>${DateConverter.paraTexto(negociacao._data)}</td>
                                 <td>${negociacao._quantidade}</td>
                                 <td>${negociacao._valor}</td>
-                                <td>${negociacao._volume}</td>
+                                <td>${negociacao.volume}</td>
                             </tr>
                         `
                     }).join('')}
