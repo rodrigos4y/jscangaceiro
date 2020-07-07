@@ -1,5 +1,5 @@
 // Criou a instância do controller
-let controller = new NegociacaoController();
+const controller = new NegociacaoController();
 
 document
     .querySelector('.form')
